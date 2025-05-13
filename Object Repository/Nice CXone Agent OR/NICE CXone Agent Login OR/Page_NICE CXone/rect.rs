@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect</name>
+   <tag></tag>
+   <elementGuidId>183a987c-d04c-4179-b041-2863507f3221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Group_118160 > #Group_118158 > #Rectangle_80239 > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Directory&quot;i >> rect >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>5e3d3302-755d-46b6-89dc-32c69d608915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20.212</value>
+      <webElementGuid>c2406acf-527e-4637-9092-ff4d7f2a3d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>19.997</value>
+      <webElementGuid>2f04965c-8710-49af-9757-748aa41eef17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>009a2a61-fa1e-4c19-a6ee-15f249e7d7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Group_118160&quot;)/g[@id=&quot;Group_118158&quot;]/g[@id=&quot;Rectangle_80239&quot;]/rect[1]</value>
+      <webElementGuid>baec9919-1405-4465-88c4-ffab43a69f5e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

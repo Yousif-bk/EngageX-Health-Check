@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_EngageX Campaign Manager</name>
+   <tag></tag>
+   <elementGuidId>68cabf64-f9bb-49d6-a2fb-54063db0aa40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user_portal']/div/div/div/div[2]/div/div/center/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.fpw-color-9c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;EngageX Campaign Manager&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a6e5dc6f-8892-43e9-b642-d20cae52c6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fpw-color-9c</value>
+      <webElementGuid>3d67683d-733a-4403-8f51-3b6960f28006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-i18n</name>
+      <type>Main</type>
+      <value>title1</value>
+      <webElementGuid>66d2c3c5-0752-49ee-8039-9ab38f5fc013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>.0.0.0.1.1.0.1.0</value>
+      <webElementGuid>0b1d6bd9-9606-4093-8174-ebea5532d4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EngageX Campaign Manager</value>
+      <webElementGuid>772102b8-e920-47d4-9e49-416b5564343f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user_portal&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-offset-3 col-md-6 col-sm-6 well fpw-background&quot;]/center[1]/h2[@class=&quot;fpw-color-9c&quot;]</value>
+      <webElementGuid>dc9a6b53-c0b7-4db6-a21e-870562b52f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user_portal']/div/div/div/div[2]/div/div/center/h2</value>
+      <webElementGuid>77f67103-583c-40e7-9eee-ba14f5cd7de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Captcha Code'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d63787ec-593a-4641-a9a8-ce36800e0c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Captcha Code'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5e4c3a2c-58d0-4e06-8fc2-e69768d0e924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c61de56b-dec8-4df6-a17e-fd0e70858cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'EngageX Campaign Manager' or . = 'EngageX Campaign Manager')]</value>
+      <webElementGuid>42ce3d31-6c84-4123-b279-007589634349</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Navigated to authlogin page_h-full w-auto</name>
+   <tag></tag>
+   <elementGuidId>3ad5b43f-3161-4a75-8924-276bf2a15988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.h-12.justify-between.p-4 > img.h-full.w-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[alt=&quot;Logo&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>81260973-4c4f-47dc-9f34-ec353a4170c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ffaa997f-a2a2-42e1-8ac8-e7b77a9cb558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full w-auto</value>
+      <webElementGuid>0a89ef12-3cba-4c1f-bb90-88364b57fd7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://engagex.eandenterprise.sa/ngage/Public/E&amp;_KSA-Logo-Header.svg</value>
+      <webElementGuid>6c955fd5-814e-4e44-9177-ffd1d06e2dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo</value>
+      <webElementGuid>7585535d-32f2-4468-993e-4161b482d900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;bg-cover bg-no-repeat h-full overflow-x-hidden&quot;]/div[@class=&quot;flex flex-col flex-grow  min-h-screen&quot;]/div[2]/div[@class=&quot;grid grid-col bg-white border mx-2 md:float-right gap-1 w-auto lg:mr-14 rounded-t-2xl rounded-b-2xl lg:w-2/5 -mt-1.5&quot;]/div[@class=&quot;flex items-center h-12 justify-between p-4&quot;]/img[@class=&quot;h-full w-auto&quot;]</value>
+      <webElementGuid>4ef603ca-9d39-49d6-9b09-18a5ce5198d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/img</value>
+      <webElementGuid>fc5f4763-d91c-4725-aed7-89cd7b59ff68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Logo'])[2]</value>
+      <webElementGuid>c4302a7f-8cf4-47b5-945f-89db5b528016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+      <webElementGuid>7583dcdc-4f22-4381-9e91-5bc3a59d4b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://engagex.eandenterprise.sa/ngage/Public/E&amp;_KSA-Logo-Header.svg' and @alt = 'Logo']</value>
+      <webElementGuid>1109b73a-c1b2-4b9e-9d0e-7206f92bcdf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
