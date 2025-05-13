@@ -103,13 +103,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b655acb3-a6f6-4bd4-b1e5-9d8837b249ae</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/KSA/Portals/Admin Portal</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>ef9cd606-1b66-4130-9c28-21012e205cac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
