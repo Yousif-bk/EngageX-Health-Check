@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Non Bulk API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8056aa79-cf6e-4f2f-8cd5-f929dd9272f8</testCaseGuid>
+</TestCaseEntity>

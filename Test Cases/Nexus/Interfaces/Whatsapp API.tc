@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Whatsapp API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd851bda-9b7a-4b96-8a12-c5af0fc6a0ca</testCaseGuid>
+</TestCaseEntity>
