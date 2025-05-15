@@ -50,7 +50,7 @@
       <guid>2499978e-b636-43a6-bb4f-9862bbbabbed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ECM/Interfaces/Soup API</testCaseId>
+      <testCaseId>Test Cases/ECM/Interfaces/SOAP API</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

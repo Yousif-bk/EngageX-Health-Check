@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Soup API OR</name>
+   <name>SOAP API OR</name>
    <tag></tag>
    <elementGuidId>91985eb9-85f3-40b4-9844-00f4fd326d4b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
